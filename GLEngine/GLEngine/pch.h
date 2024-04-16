@@ -3,8 +3,9 @@
 #include "glad/glad.h"
 #include "GLFW/glfw3.h"
 #include <glm/glm.hpp>
-//#include "Window/window.h"
-//#include "Color.h"
+#include "Window/window.h"
+#include "Color.h"
+#include "glm/vec3.hpp"
 
 #include <iostream>
 #include <sstream>
